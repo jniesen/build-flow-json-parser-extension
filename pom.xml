@@ -18,7 +18,7 @@
 
     <name>Build Flow Json Parser Extensions</name>
     <description>Provides the ability to parse JSON in a BuildFlow DSL.</description>
-    <url></url>
+    <url>https://github.com/jniesen/build-flow-json-parser-extension-plugin</url>
     <inceptionYear>2014</inceptionYear>
 
     <properties>
