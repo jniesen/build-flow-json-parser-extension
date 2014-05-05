@@ -17,7 +17,7 @@
     <packaging>hpi</packaging>
 
     <name>Build Flow Json Parser Extensions</name>
-    <description>This plugin provides DSL extensions to the BuildFlow plugin to allow building and parsing JSON objects.</description>
+    <description>Provides the ability to parse JSON in a BuildFlow DSL.</description>
     <url></url>
     <inceptionYear>2014</inceptionYear>
 
