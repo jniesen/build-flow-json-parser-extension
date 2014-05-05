@@ -6,6 +6,6 @@ Usage in a Build Flow DSL:
 
 ```groovy
 def parser = extension."build-flow-json-parser-extension"
-def lunch = parser.parseTest("{\"food\": [{\"name": \"pb and j\", \"ingredients\": [\"bread\", \"peanut butter\", \"jelly\"]}]}")
-out.println(lunch.food.name) //=> pb and j
+def lunch = parser.parseText("{\"food\": [{\"name\": \"pb and j\", \"ingredients\": [\"bread\", \"peanut butter\", \"jelly\"]}]}")
+out.println(lunch.food.name) //=> [pb and j]
 ```
