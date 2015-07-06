@@ -12,13 +12,13 @@
 
 
     <groupId>org.jenkins-ci.plugins</groupId>
-    <artifactId>build-flow-json-parser-extension-plugin</artifactId>
-    <version>0.0.1</version>
+    <artifactId>build-flow-json-parser-extension</artifactId>
+    <version>0.0.2</version>
     <packaging>hpi</packaging>
 
     <name>Build Flow Json Parser Extensions</name>
     <description>Provides the ability to parse JSON in a BuildFlow DSL.</description>
-    <url>https://github.com/jniesen/build-flow-json-parser-extension-plugin</url>
+    <url>https://github.com/jniesen/build-flow-json-parser-extension</url>
     <inceptionYear>2014</inceptionYear>
 
     <properties>
